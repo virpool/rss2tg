@@ -1,0 +1,7 @@
+node_modules
+dist
+.eslintcache
+tsconfig.tsbuildinfo
+.nyc*
+*.log
+logs
